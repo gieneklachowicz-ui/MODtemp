@@ -1,0 +1,20 @@
+# MODtemp
+
+A simple and lightweight Gorilla Tag mod template designed to help developers quickly start creating their own BepInEx plugins.
+
+This template provides a clean and minimal project structure with separate plugin information and main plugin files. It can be used as a starting point for creating and developing Gorilla Tag mods.
+
+## Features
+
+* Simple BepInEx plugin structure
+* Separate `PluginInfo.cs`
+* Minimal `Plugin.cs`
+* Easy to customize
+* Designed for beginners and experienced developers
+* Ready to be expanded with your own features
+
+## Getting Started
+
+Clone or download the repository, open the project in your preferred C# development environment, and start building your own Gorilla Tag plugin.
+
+MODtemp is intended to be a basic starting point, not a finished mod.
